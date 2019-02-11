@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaeweiy.cameronjhouser.com/sitemap.xml
